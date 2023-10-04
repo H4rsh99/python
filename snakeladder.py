@@ -18,7 +18,7 @@ def roll_die():
 
 # Function to play a turn
 def play_turn(player_name, player_position):
-    input(f"{player_name}, press Enter to roll the die...")
+    input(f"{player_name}, press Enter to roll the dieceee...")
     die_value = roll_die()
     print(f"{player_name} rolled a {die_value}")
     player_position += die_value
