@@ -7,7 +7,7 @@
 # Enjoy :)
 import time
 
-print("welcome to the game!!!!!!! Buddy")
+print("welcome to the game!!! Buddy actually good budydyy")
 
 
 Name = input("what is your name? ")
