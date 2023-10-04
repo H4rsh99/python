@@ -10,7 +10,7 @@ import time
 print("welcome to the game!!!!!!! Buddy")
 
 
-Name = input("what is your name? ")
+Name = input("what is youuur name? ")
 
 age = input("what is your age? ")
 
